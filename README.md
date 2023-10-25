@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Rangoju</h1>
-<h3 align="center">Building the Future with MERN: A Developer's Repository</h3>
+<h3 align="center">Open to work for SDE/MERN STACK DEVELOPER ROLE</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu567&label=Profile%20views&color=0e75b6&style=flat" alt="vaishu567" /> </p>
