@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **JavaScript, Python, MERN, SQL**
 
